@@ -19,7 +19,7 @@ export default function Index() {
           <div id="welcome">
             <h1>
               <span> Hello there, </span>
-              Welcome simpleui-workspace 👋
+              Welcome simpleui-platform 👋
             </h1>
           </div>
 
@@ -403,7 +403,7 @@ export default function Index() {
                 </svg>
                 View project details
               </summary>
-              <pre>nx show project simpleui-workspace --web</pre>
+              <pre>nx show project simpleui-platform --web</pre>
             </details>
             <details>
               <summary>
